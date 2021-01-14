@@ -1,0 +1,5 @@
+top-wrapper background-color: #3098f3
+content-wrapper & message-wrapper background-color: #fff
+promotion-wrapper background-color: #ffcc00
+footer background-color: #082c4e
+
